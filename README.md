@@ -18,6 +18,6 @@ It was released in May of 2019.
 | Camera (Back)           | 16 MP, f/2.2, 13mm (ultrawide)                                                                                                 |
 | Camera (Front)          | Motorized pop-up 16 MP, f/2.0, 25mm (wide), 1/3.0", 1.0µm                                                                      |
 
-Copyright 2019 - lineage Project.
+Copyright 2019 - Cypher Project.
 
 ![OnePlus 6T](https://cdn2.gsmarena.com/vv/pics/oneplus/oneplus-7-pro-1.jpg "OnePlus 7 Pro")
