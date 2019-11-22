@@ -17,6 +17,9 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
     $(LOCAL_PATH)/overlay-lineage
 
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
+    $(LOCAL_PATH)/overlay-lineage/packages/apps/Snap
+
 # Camera
 PRODUCT_PACKAGES += \
     vendor.lineage.camera.motor@1.0 \
